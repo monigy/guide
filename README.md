@@ -16,11 +16,11 @@ total_hours = 0
 total_min = 0
 
 tank = 0
-consum = 0 #средний расход топлива л/100 км
+consum = 0 
 dist = 0
-refuels = 0 # Количество дозаправок
+refuels = 0 
 refuel_time = 20
-fuel = 0 #Сколько затрачено топлива
+fuel = 0 
 price = 0
 
 breaks = 0
